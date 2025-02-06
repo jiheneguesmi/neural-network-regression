@@ -20,8 +20,4 @@ Ce projet consiste à concevoir et implémenter un **réseau de neurones** en ut
 - **NumPy & Pandas**  
 - **Matplotlib & Seaborn** (visualisation des résultats)  
 
-## 📌 Installation et Exécution  
-### 1️⃣ Installation des dépendances  
-Assurez-vous d'avoir **Python 3.8+** installé. Ensuite, installez les bibliothèques nécessaires :  
-```sh
-pip install tensorflow numpy pandas matplotlib seaborn scikit-learn
+
